@@ -1,5 +1,4 @@
 /**
- * Copyright (C), 2017-2018, 华星光电技术有限公司
  * FileName: changeString
  * Author:   caoxinyue
  * Date:     2018-8-19 14:46
